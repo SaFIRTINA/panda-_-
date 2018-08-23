@@ -1,0 +1,19 @@
+{
+  "name": "Panda-_-",
+  "description": "24/7",
+  "scripts": {
+  },
+  "env": {
+    "BOT_TOKEN": "NDc0MTg0OTY1NjM1MDQ3NDI1.DmCiog.7btOEhJjoXXyY7h6qdZsH_0t20s"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "node.js"
+    }
+  ]
+}
